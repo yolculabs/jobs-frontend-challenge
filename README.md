@@ -15,6 +15,7 @@ kapalı halde gelip, açılıp kapatılabilir olmalı.
 
 - Kod kalitesi, Kodun okunurluğu
 - Seçilen teknolojilerin doğru kullanımı
+- İterasyon içinde doğru performans mimarisi kararları
 
 ## Notlar:
 
