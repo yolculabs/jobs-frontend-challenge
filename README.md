@@ -23,4 +23,4 @@ kapalı halde gelip, açılıp kapatılabilir olmalı.
 - Uygulamayı Terchien React olmak üzere herhangi bir client-side framework (Angular, Ember, Backbone) kullanarak
 geliştirebilirsiniz.
 - Tercihen Webpack olmak uzere herhangi bir build sistemini(grunt, gulp, rollup) kullanabilirsiniz.
-- Sorularınızı ilkin@venividitech.com adresine iletebilirsiniz.
+- Sorularınızı kemalyenilmez@venividitech.com adresine iletebilirsiniz.
